@@ -1,7 +1,7 @@
 import sqlite3
 import pandas as pd
 
-path = "C:\\Users\Tande\Desktop\sqll\scraper_base.sqlite"
+path = "'" ## ENTER YOUR PATH HERE
 conn = sqlite3.connect(path)
 c = conn.cursor()
 
