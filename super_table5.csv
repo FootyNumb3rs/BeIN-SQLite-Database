@@ -1,0 +1,151 @@
+Pos,Name,GP,Team,Stat,Statname,League,ABBR,CREST
+1,Messi,30,Barcelona,29,Goals,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/a/aa/Fc_barcelona.svg
+2,Ronaldo,24,Real Madrid,23,Goals,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg
+3,Suárez,27,Barcelona,22,Goals,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/a/aa/Fc_barcelona.svg
+4,Aspas,30,Celta de Vigo,19,Goals,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/0/0c/Celta_Vigo.svg
+5,Griezmann,27,Atlético de Madrid,18,Goals,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/c/c1/Atletico_Madrid_logo.svg
+6,Stuani,26,Girona,17,Goals,La Liga,FCB,http://upload.wikimedia.org/wikipedia/en/9/90/For_article_Girona_FC.svg
+7,Moreno,30,Valencia CF,15,Goals,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/7/75/FC_Valencia.svg
+8,José,27,Real Sociedad,13,Goals,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/5/55/Real_Sociedad_San_Sebastián.svg
+9,Gómez,29,Celta de Vigo,13,Goals,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/0/0c/Celta_Vigo.svg
+10,Rodríguez,27,Getafe,12,Goals,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/d/de/Getafe_CF.svg
+1,Messi,30,Barcelona,12,Assists,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/a/aa/Fc_barcelona.svg
+2,Sisto,29,Celta de Vigo,9,Assists,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/0/0c/Celta_Vigo.svg
+3,Benzema,25,Real Madrid,8,Assists,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg
+4,Guedes,26,Valencia CF,8,Assists,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/7/75/FC_Valencia.svg
+5,Griezmann,27,Atlético de Madrid,8,Assists,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/c/c1/Atletico_Madrid_logo.svg
+6,Alba,28,Barcelona,8,Assists,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/a/aa/Fc_barcelona.svg
+7,Fornals,30,Villarreal,8,Assists,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/7/70/Villarreal_CF_logo.svg
+8,Ángel,25,Eibar,7,Assists,La Liga,FCB,http://upload.wikimedia.org/wikipedia/en/7/75/SD_Eibar_logo.svg
+9,Guardado,25,Real Betis,7,Assists,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/4/43/Real_Betis.svg
+10,Vázquez,27,Real Madrid,7,Assists,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg
+1,Messi,30,Barcelona,76,Ch. Created,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/a/aa/Fc_barcelona.svg
+2,Viera,23,Las Palmas,63,Ch. Created,La Liga,FCB,http://upload.wikimedia.org/wikipedia/en/2/20/UD_Las_Palmas_logo.svg
+3,Pérez,28,Deportivo de La Coruña,61,Ch. Created,La Liga,FCB,Noneee
+4,Granell,28,Girona,58,Ch. Created,La Liga,FCB,http://upload.wikimedia.org/wikipedia/en/9/90/For_article_Girona_FC.svg
+5,Aspas,30,Celta de Vigo,58,Ch. Created,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/0/0c/Celta_Vigo.svg
+6,Parejo,29,Valencia CF,55,Ch. Created,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/7/75/FC_Valencia.svg
+7,Kroos,22,Real Madrid,52,Ch. Created,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg
+8,Banega,26,Sevilla,47,Ch. Created,La Liga,FCB,http://upload.wikimedia.org/wikipedia/en/8/86/Sevilla_cf_200px.png
+9,Marcelo,24,Real Madrid,46,Ch. Created,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg
+10,Wass,28,Celta de Vigo,46,Ch. Created,La Liga,FCB,http://upload.wikimedia.org/wikipedia/de/0/0c/Celta_Vigo.svg
+1,Immobile,28,Lazio,27,Goals,Serie A,FCB,http://upload.wikimedia.org/wikipedia/de/thumb/4/47/Lazio_Rom.svg/500px-Lazio_Rom.svg.png
+2,Icardi,27,Internazionale,24,Goals,Serie A,FCB,https://upload.wikimedia.org/wikipedia/it/7/7e/Logo_FC_Internazionale_Milano_2014.png
+3,Dybala,26,Juventus,21,Goals,Serie A,FCB,http://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg
+4,Quagliarella,29,Sampdoria,18,Goals,Serie A,FCB,https://upload.wikimedia.org/wikipedia/en/f/f7/Sampdoria_badge.png
+5,Mertens,31,Napoli,17,Goals,Serie A,FCB,http://upload.wikimedia.org/wikipedia/commons/2/28/S.S.C._Napoli_logo.svg
+6,Higuaín,29,Juventus,15,Goals,Serie A,FCB,http://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg
+7,Dzeko,30,Roma,14,Goals,Serie A,FCB,http://upload.wikimedia.org/wikipedia/de/3/32/AS_Rom.svg
+8,Falque,31,Torino,11,Goals,Serie A,FCB,http://upload.wikimedia.org/wikipedia/de/2/2e/Torino_FC_Logo.svg
+9,Zapata,27,Sampdoria,10,Goals,Serie A,FCB,https://upload.wikimedia.org/wikipedia/en/f/f7/Sampdoria_badge.png
+10,Ilicic,27,Atalanta,10,Goals,Serie A,FCB,http://upload.wikimedia.org/wikipedia/de/2/28/Atalanta_BC.svg
+1,Alberto,30,Lazio,11,Assists,Serie A,FCB,http://upload.wikimedia.org/wikipedia/de/thumb/4/47/Lazio_Rom.svg/500px-Lazio_Rom.svg.png
+2,Gomez,26,Atalanta,9,Assists,Serie A,FCB,http://upload.wikimedia.org/wikipedia/de/2/28/Atalanta_BC.svg
+3,Immobile,28,Lazio,9,Assists,Serie A,FCB,http://upload.wikimedia.org/wikipedia/de/thumb/4/47/Lazio_Rom.svg/500px-Lazio_Rom.svg.png
+4,Insigne,30,Napoli,9,Assists,Serie A,FCB,http://upload.wikimedia.org/wikipedia/commons/2/28/S.S.C._Napoli_logo.svg
+5,Pjanic,26,Juventus,8,Assists,Serie A,FCB,http://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg
+6,Verdi,27,Bologna,8,Assists,Serie A,FCB,http://upload.wikimedia.org/wikipedia/de/9/92/FC_Bologna.svg
+7,Ramírez,30,Sampdoria,8,Assists,Serie A,FCB,https://upload.wikimedia.org/wikipedia/en/f/f7/Sampdoria_badge.png
+8,Perisic,30,Internazionale,8,Assists,Serie A,FCB,https://upload.wikimedia.org/wikipedia/it/7/7e/Logo_FC_Internazionale_Milano_2014.png
+9,Candreva,30,Internazionale,8,Assists,Serie A,FCB,https://upload.wikimedia.org/wikipedia/it/7/7e/Logo_FC_Internazionale_Milano_2014.png
+10,Falque,31,Torino,8,Assists,Serie A,FCB,http://upload.wikimedia.org/wikipedia/de/2/2e/Torino_FC_Logo.svg
+1,Insigne,30,Napoli,83,Ch. Created,Serie A,FCB,http://upload.wikimedia.org/wikipedia/commons/2/28/S.S.C._Napoli_logo.svg
+2,Alberto,30,Lazio,76,Ch. Created,Serie A,FCB,http://upload.wikimedia.org/wikipedia/de/thumb/4/47/Lazio_Rom.svg/500px-Lazio_Rom.svg.png
+3,Gomez,26,Atalanta,72,Ch. Created,Serie A,FCB,http://upload.wikimedia.org/wikipedia/de/2/28/Atalanta_BC.svg
+4,Candreva,30,Internazionale,72,Ch. Created,Serie A,FCB,https://upload.wikimedia.org/wikipedia/it/7/7e/Logo_FC_Internazionale_Milano_2014.png
+5,Kolarov,29,Roma,71,Ch. Created,Serie A,FCB,http://upload.wikimedia.org/wikipedia/de/3/32/AS_Rom.svg
+6,Falque,31,Torino,69,Ch. Created,Serie A,FCB,http://upload.wikimedia.org/wikipedia/de/2/2e/Torino_FC_Logo.svg
+7,Suso,29,Milan,66,Ch. Created,Serie A,FCB,https://upload.wikimedia.org/wikipedia/it/7/7e/Logo_FC_Internazionale_Milano_2014.png
+8,Perisic,30,Internazionale,60,Ch. Created,Serie A,FCB,https://upload.wikimedia.org/wikipedia/it/7/7e/Logo_FC_Internazionale_Milano_2014.png
+9,Ilicic,27,Atalanta,57,Ch. Created,Serie A,FCB,http://upload.wikimedia.org/wikipedia/de/2/28/Atalanta_BC.svg
+10,Birsa,29,Chievo,57,Ch. Created,Serie A,FCB,http://upload.wikimedia.org/wikipedia/de/3/3f/AC_Chievo_Verona.svg
+1,Cavani,28,Paris Saint-Germain,24,Goals,Ligue 1,FCB,https://upload.wikimedia.org/wikipedia/fr/8/86/Paris_Saint-Germain_Logo.svg
+2,Neymar,20,Paris Saint-Germain,19,Goals,Ligue 1,FCB,https://upload.wikimedia.org/wikipedia/fr/8/86/Paris_Saint-Germain_Logo.svg
+3,Falcao,23,Monaco,18,Goals,Ligue 1,FCB,http://upload.wikimedia.org/wikipedia/de/3/3c/AS_Monaco.svg
+4,Mariano,30,Lyon,17,Goals,Ligue 1,FCB,http://upload.wikimedia.org/wikipedia/de/f/f1/Olympique_Lyon.svg
+5,Ekambi,31,Angers,17,Goals,Ligue 1,FCB,http://upload.wikimedia.org/wikipedia/de/0/0f/SCO_Angers.svg
+6,Fekir,24,Lyon,16,Goals,Ligue 1,FCB,http://upload.wikimedia.org/wikipedia/de/f/f1/Olympique_Lyon.svg
+7,Thauvin,29,Marseille,16,Goals,Ligue 1,FCB,http://upload.wikimedia.org/wikipedia/de/2/27/Olympique_Marseille_Logo.svg
+8,Balotelli,23,Nice,14,Goals,Ligue 1,FCB,https://upload.wikimedia.org/wikipedia/fr/0/03/OGC_Nice_Logo.png
+9,Mbappé,24,Paris Saint-Germain,13,Goals,Ligue 1,FCB,https://upload.wikimedia.org/wikipedia/fr/8/86/Paris_Saint-Germain_Logo.svg
+10,Plea,30,Nice,13,Goals,Ligue 1,FCB,https://upload.wikimedia.org/wikipedia/fr/0/03/OGC_Nice_Logo.png
+1,Neymar,20,Paris Saint-Germain,13,Assists,Ligue 1,FCB,https://upload.wikimedia.org/wikipedia/fr/8/86/Paris_Saint-Germain_Logo.svg
+2,Thauvin,29,Marseille,10,Assists,Ligue 1,FCB,http://upload.wikimedia.org/wikipedia/de/2/27/Olympique_Marseille_Logo.svg
+3,Depay,30,Lyon,10,Assists,Ligue 1,FCB,http://upload.wikimedia.org/wikipedia/de/f/f1/Olympique_Lyon.svg
+4,Payet,27,Marseille,9,Assists,Ligue 1,FCB,http://upload.wikimedia.org/wikipedia/de/2/27/Olympique_Marseille_Logo.svg
+5,Mbappé,24,Paris Saint-Germain,8,Assists,Ligue 1,FCB,https://upload.wikimedia.org/wikipedia/fr/8/86/Paris_Saint-Germain_Logo.svg
+6,Dossevi,24,Metz,8,Assists,Ligue 1,FCB,http://upload.wikimedia.org/wikipedia/de/b/ba/FC_Metz_Logo.svg
+7,Lemar,24,Monaco,7,Assists,Ligue 1,FCB,http://upload.wikimedia.org/wikipedia/de/3/3c/AS_Monaco.svg
+8,Bamba,28,St Etienne,7,Assists,Ligue 1,FCB,Noneee
+9,Bourigeaud,31,Rennes,7,Assists,Ligue 1,FCB,Noneee
+10,Alves,22,Paris Saint-Germain,6,Assists,Ligue 1,FCB,https://upload.wikimedia.org/wikipedia/fr/8/86/Paris_Saint-Germain_Logo.svg
+1,Payet,27,Marseille,98,Ch. Created,Ligue 1,FCB,http://upload.wikimedia.org/wikipedia/de/2/27/Olympique_Marseille_Logo.svg
+2,Bourigeaud,31,Rennes,79,Ch. Created,Ligue 1,FCB,Noneee
+3,Malcom,29,Bordeaux,72,Ch. Created,Ligue 1,FCB,http://upload.wikimedia.org/wikipedia/de/e/ea/Girondins_Bordeaux_Logo.svg
+4,Neymar,20,Paris Saint-Germain,69,Ch. Created,Ligue 1,FCB,https://upload.wikimedia.org/wikipedia/fr/8/86/Paris_Saint-Germain_Logo.svg
+5,Dossevi,24,Metz,64,Ch. Created,Ligue 1,FCB,http://upload.wikimedia.org/wikipedia/de/b/ba/FC_Metz_Logo.svg
+6,Thauvin,29,Marseille,62,Ch. Created,Ligue 1,FCB,http://upload.wikimedia.org/wikipedia/de/2/27/Olympique_Marseille_Logo.svg
+7,Kakuta,30,Amiens,60,Ch. Created,Ligue 1,FCB,https://upload.wikimedia.org/wikipedia/de/0/0d/SC_Amiens_Logo.svg
+8,Féret,31,Caen,56,Ch. Created,Ligue 1,FCB,https://upload.wikimedia.org/wikipedia/fr/7/79/LogoSmc2013.png
+9,Seri,25,Nice,53,Ch. Created,Ligue 1,FCB,https://upload.wikimedia.org/wikipedia/fr/0/03/OGC_Nice_Logo.png
+10,Mangani,30,Angers,53,Ch. Created,Ligue 1,FCB,http://upload.wikimedia.org/wikipedia/de/0/0f/SCO_Angers.svg
+1,Salah,31,Liverpool,29,Goals,Premier League,FCB,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg
+2,Kane,31,Tottenham Hotspur,25,Goals,Premier League,FCB,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg
+3,Agüero,25,Manchester City,21,Goals,Premier League,FCB,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg
+4,Sterling,28,Manchester City,16,Goals,Premier League,FCB,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg
+5,Vardy,31,Leicester City,16,Goals,Premier League,FCB,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png
+6,Lukaku,31,Manchester United,15,Goals,Premier League,FCB,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg
+7,Firmino,32,Liverpool,14,Goals,Premier League,FCB,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg
+8,Heung-Min,31,Tottenham Hotspur,12,Goals,Premier League,FCB,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg
+9,Morata,26,Chelsea,11,Goals,Premier League,FCB,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg
+10,Hazard,28,Chelsea,11,Goals,Premier League,FCB,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg
+1,Bruyne,32,Manchester City,15,Assists,Premier League,FCB,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg
+2,Sané,27,Manchester City,12,Assists,Premier League,FCB,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg
+3,Silva,26,Manchester City,11,Assists,Premier League,FCB,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg
+4,Alli,31,Tottenham Hotspur,10,Assists,Premier League,FCB,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg
+5,Pogba,21,Manchester United,9,Assists,Premier League,FCB,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg
+6,Mkhitaryan,22,Arsenal,9,Assists,Premier League,FCB,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg
+7,Salah,31,Liverpool,9,Assists,Premier League,FCB,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg
+8,Eriksen,31,Tottenham Hotspur,9,Assists,Premier League,FCB,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg
+9,Özil,26,Arsenal,8,Assists,Premier League,FCB,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg
+10,Sterling,28,Manchester City,8,Assists,Premier League,FCB,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg
+1,Bruyne,32,Manchester City,102,Ch. Created,Premier League,FCB,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg
+2,Özil,26,Arsenal,84,Ch. Created,Premier League,FCB,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg
+3,Fàbregas,28,Chelsea,79,Ch. Created,Premier League,FCB,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg
+4,Eriksen,31,Tottenham Hotspur,78,Ch. Created,Premier League,FCB,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg
+5,Groß,32,Brighton and Hove Albion,74,Ch. Created,Premier League,FCB,Noneee
+6,Hazard,28,Chelsea,73,Ch. Created,Premier League,FCB,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg
+7,Shaqiri,31,Stoke City,67,Ch. Created,Premier League,FCB,http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg
+8,Sánchez,27,Manchester United,65,Ch. Created,Premier League,FCB,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg
+9,Alli,31,Tottenham Hotspur,62,Ch. Created,Premier League,FCB,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg
+10,Townsend,31,Crystal Palace,59,Ch. Created,Premier League,FCB,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png
+1,Lewandowski,26,FC Bayern München,26,Goals,Bundesliga,FCB,http://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_FC_Bayern_München.svg
+2,Aubameyang,16,Borussia Dortmund,13,Goals,Bundesliga,FCB,http://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg
+3,Petersen,27,Sport-Club Freiburg,13,Goals,Bundesliga,FCB,Noneee
+4,Uth,27,TSG 1899 Hoffenheim,12,Goals,Bundesliga,FCB,https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_TSG_Hoffenheim.svg
+5,Finnbogason,18,FC Augsburg,11,Goals,Bundesliga,FCB,http://upload.wikimedia.org/wikipedia/de/b/b5/Logo_FC_Augsburg.svg
+6,Kalou,26,Hertha BSC,11,Goals,Bundesliga,FCB,https://upload.wikimedia.org/wikipedia/commons/8/81/Hertha_BSC_Logo_2012.svg
+7,Werner,27,RB Leipzig,11,Goals,Bundesliga,FCB,Noneee
+8,Volland,27,Bayer 04 Leverkusen,11,Goals,Bundesliga,FCB,Noneee
+9,Gregoritsch,28,FC Augsburg,11,Goals,Bundesliga,FCB,http://upload.wikimedia.org/wikipedia/de/b/b5/Logo_FC_Augsburg.svg
+10,Füllkrug,29,Hannover 96,11,Goals,Bundesliga,FCB,https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg
+1,Max,29,FC Augsburg,12,Assists,Bundesliga,FCB,http://upload.wikimedia.org/wikipedia/de/b/b5/Logo_FC_Augsburg.svg
+2,Rodríguez,19,FC Bayern München,10,Assists,Bundesliga,FCB,http://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_FC_Bayern_München.svg
+3,Kimmich,25,FC Bayern München,10,Assists,Bundesliga,FCB,http://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_FC_Bayern_München.svg
+4,Müller,25,FC Bayern München,9,Assists,Bundesliga,FCB,http://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_FC_Bayern_München.svg
+5,Wolf,24,Eintracht Frankfurt,7,Assists,Bundesliga,FCB,http://upload.wikimedia.org/wikipedia/commons/0/04/Eintracht_Frankfurt_Logo.svg
+6,Kruse,24,SV Werder Bremen,6,Assists,Bundesliga,FCB,Noneee
+7,Havertz,25,Bayer 04 Leverkusen,6,Assists,Bundesliga,FCB,Noneee
+8,Bailey,25,Bayer 04 Leverkusen,6,Assists,Bundesliga,FCB,Noneee
+9,Uth,27,TSG 1899 Hoffenheim,6,Assists,Bundesliga,FCB,https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_TSG_Hoffenheim.svg
+10,Caligiuri,28,FC Schalke 04,6,Assists,Bundesliga,FCB,https://upload.wikimedia.org/wikipedia/commons/6/6d/FC_Schalke_04_Logo.svg
+1,Max,29,FC Augsburg,75,Ch. Created,Bundesliga,FCB,http://upload.wikimedia.org/wikipedia/de/b/b5/Logo_FC_Augsburg.svg
+2,Hazard,29,Borussia Mönchengladbach,60,Ch. Created,Bundesliga,FCB,Noneee
+3,Oczipka,26,FC Schalke 04,52,Ch. Created,Bundesliga,FCB,https://upload.wikimedia.org/wikipedia/commons/6/6d/FC_Schalke_04_Logo.svg
+4,Brandt,29,Bayer 04 Leverkusen,52,Ch. Created,Bundesliga,FCB,Noneee
+5,Rodríguez,19,FC Bayern München,49,Ch. Created,Bundesliga,FCB,http://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_FC_Bayern_München.svg
+6,Kruse,24,SV Werder Bremen,49,Ch. Created,Bundesliga,FCB,Noneee
+7,Müller,25,FC Bayern München,49,Ch. Created,Bundesliga,FCB,http://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_FC_Bayern_München.svg
+8,Kimmich,25,FC Bayern München,49,Ch. Created,Bundesliga,FCB,http://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_FC_Bayern_München.svg
+9,Stindl,29,Borussia Mönchengladbach,48,Ch. Created,Bundesliga,FCB,Noneee
+10,Kampl,23,RB Leipzig,47,Ch. Created,Bundesliga,FCB,Noneee
